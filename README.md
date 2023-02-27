@@ -169,6 +169,39 @@ SELECT ride_id, rideable_type, started_at, ended_at, ride_month, day_of_week, no
   SELECT * FROM [dbo].[Bikes_Dec22_Jan23]
   )
   AS DA
+  
+  --Calculates the Average and Total Ride Lenght per Weekday and depending on the Member type 
+Select member_type, no_weekday,
+SUM (ride_length_min/60) AS TotalHour_Ride_Length,
+ROUND (AVG (ride_length_min),2) AS AVG_Ride_Length
+--MAX (ride_length_min) AS MAX_Ride_Length
+FROM [dbo].[Divvy_Analysis]
+GROUP BY member_type, no_weekday
+ORDER BY no_weekday desc
+
+--Calculates the Average and Total Ride Lenght per Weekday and depending on the Rideable Type 
+Select rideable_type, no_weekday, 
+ROUND (AVG (ride_length_min),2) AS AVG_Ride_Length
+--ROUND (MAX (ride_length_min/60),2) AS MAX_Ride_Length
+FROM [dbo].[Divvy_Analysis]
+GROUP BY rideable_type, no_weekday
+ORDER BY AVG_Ride_Length DESC
+
+
+-- Calculates Total Hours Ride per Rideable Type  
+SELECT  
+SUM (CASE WHEN rideable_type = 'electric_bike' THEN (ride_length_min/60) END) as TotalHoursRideElectric,
+SUM (CASE WHEN rideable_type  = 'classic_bike' THEN (ride_length_min/60) END) as TotalHoursRideClassic,
+SUM (CASE WHEN rideable_type = 'docked_bike' THEN (ride_length_min/60) END ) as TotalHoursRideDocked
+FROM [dbo].[Divvy_Analysis]
+
+-- Calculates Total Hour Ride per Member Type 
+SELECT  
+SUM (CASE WHEN member_type = 'casual' THEN (ride_length_min/60) END) as TotalHourRideCasual,
+SUM (CASE WHEN member_type  = 'member' THEN (ride_length_min/60) END) as TotalHourRideMember
+FROM [dbo].[Divvy_Analysis]
+
+  
 ```
 :loudspeaker: To see the complete SQL Server code of the analysis, please  [Click here](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/Bikes_Analysis.sql)
 to check the rmd file.
