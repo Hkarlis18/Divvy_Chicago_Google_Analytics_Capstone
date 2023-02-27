@@ -264,4 +264,4 @@ target those users and establish attractive partnerships with other brands that 
 
 
 
-:top: [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/new/main?readme=1#bike-summary)
+:top:  [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-summary)
