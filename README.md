@@ -18,7 +18,7 @@ The case study follows the Google Analytics model for data analysis:
 
 ### :five: [Share](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-share)
 
-### :six:  [Act](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-summary)
+### :six:  [Act](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#six--act)
 
 
 
@@ -102,7 +102,7 @@ as name, address, age, and gender.
 + **Missing values:** The dataset presents NA values in aspects such as starting and ending station names, 
 as well as the station ID.
 
-:top: [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/new/main?readme=1#bike-summary)
+:top:  [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-summary)
 
 
 
@@ -175,7 +175,7 @@ to check the rmd file.
 
 
 
-:top: [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/new/main?readme=1#bike-summary)
+:top:  [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-summary)
 
 
 
@@ -215,7 +215,7 @@ Emerald Ave & 43rd St.
 + Classic bikes have the highest count of hours ridden. However, 51,08% of rides were made on an electric bike and just 45,84% on a classic bike.
 
 
-:top: [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/new/main?readme=1#bike-summary)
+:top:  [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-summary)
 
 
 
@@ -232,7 +232,7 @@ All visualizations for this case study were made using Power Bi
 
 
 
-:top: [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/new/main?readme=1#bike-summary)
+:top:  [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-summary)
 
 
 
