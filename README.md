@@ -16,7 +16,7 @@ The case study follows the Google Analytics model for data analysis:
 
 ### :four:  [Analyze](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-analyze)
 
-### :five:[Share](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/new/main?readme=1#bike-share)
+### :five: [Share](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-share)
 
 ### :six:  [Act](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/new/main?readme=1#bike-act)
 
