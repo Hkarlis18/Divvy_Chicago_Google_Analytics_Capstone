@@ -8,7 +8,7 @@ The following case study is one of the capstone projects for the Google Analytic
 
 The case study follows the Google Analytics model for data analysis:
 
-### :one:   [Ask](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/edit/main/README.md#bike-ask)
+### :one:   [Ask](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-ask)
 
 ### :two: [Prepare](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/edit/main/README.md#bike-prepare)
 
