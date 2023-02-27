@@ -18,7 +18,7 @@ The case study follows the Google Analytics model for data analysis:
 
 ### :five: [Share](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-share)
 
-### :six:  [Act](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-act)
+### :six:  [Act](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-summary)
 
 
 
@@ -62,7 +62,7 @@ to create the marketing strategist.
  2. Why would casual riders buy Cyclistic annual memberships?
  3. How can Cyclistic use digital media to influence casual riders to become members?
 
-:top: [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/new/main?readme=1#bike-summary)
+:top:  [ Back to Summary](https://github.com/Hkarlis18/Divvy_Chicago_Google_Analytics_Capstone/blob/main/README.md#bike-summary)
 
 
 ## :bike: Prepare 
